@@ -67,7 +67,7 @@ sqlalchemy-async-fundamentals/
 ## Installation
 1. Clone repository:  
 ```
-git clone <repo_url>
+git clone https://github.com/dmitry-backend/sqlalchemy-async-fundamentals.git
 cd sqlalchemy-async-fundamentals
 ```
 2. Create virtual environment:  
