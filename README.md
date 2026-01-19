@@ -1,4 +1,4 @@
-# SQLAlchemy Async Fundamentals
+# Blog Async API
 
 **Short description:**
 My first junior-level backend project demonstrating correct usage of SQLAlchemy 2.0 async ORM, clean project structure, and explicit async database interaction patterns.
